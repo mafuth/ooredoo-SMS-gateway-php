@@ -2,6 +2,7 @@
     "name": "mafuth/ooredoo-sms-gateway-php",
     "description": "Simple bulk SMS sender for OOREDOO",
     "type": "library",
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
