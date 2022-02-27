@@ -3,8 +3,9 @@
 ## OOREDOO SMS gateway for php
 
 how to use 
+
 ```php
-require 'main.php';
+require 'vandor/autoload.php';
 
 $SMS = new ooredooSMS(
     'Your Auth Key',
