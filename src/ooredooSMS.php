@@ -1,4 +1,6 @@
 <?php
+namespace ooredooSMS;
+
 class ooredooSMS{
 
     private $AthuKey;

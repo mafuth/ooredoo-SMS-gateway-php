@@ -1,0 +1,18 @@
+{
+    "name": "mafuth/ooredoo-SMS-gateway-php",
+    "description": "Simple bulk SMS sender for OOREDOO",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mafuth",
+            "email": "mafaaz708@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ooredooSMS\\": "src/"
+        }
+    },
+    "require": {}
+}
