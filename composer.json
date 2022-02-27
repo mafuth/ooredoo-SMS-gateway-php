@@ -1,5 +1,5 @@
 {
-    "name": "mafuth/ooredoo-SMS-gateway-php",
+    "name": "mafuth/ooredoo-sms-gateway-php",
     "description": "Simple bulk SMS sender for OOREDOO",
     "type": "library",
     "license": "MIT",
