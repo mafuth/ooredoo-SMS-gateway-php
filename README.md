@@ -3,6 +3,9 @@
 ## OOREDOO SMS gateway for php
 
 how to use 
+```ssh
+composer require mafuth/ooredoo-sms-gateway-php
+```
 
 ```php
 require 'vandor/autoload.php';
