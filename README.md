@@ -1,6 +1,6 @@
 <img src="https://www.ooredoo.com/wp-content/uploads/2015/12/ooredoo_logo_.png"/>
 
-##OOREDOO SMS gateway for php
+## OOREDOO SMS gateway for php
 
 how to use 
 ```php
