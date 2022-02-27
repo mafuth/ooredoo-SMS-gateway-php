@@ -8,7 +8,7 @@ composer require mafuth/ooredoo-sms-gateway-php
 ```
 
 ```php
-require 'vandor/autoload.php';
+use ooredooSMS\ooredooSMS;
 
 $SMS = new ooredooSMS(
     'Your Auth Key',
