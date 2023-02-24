@@ -1,4 +1,4 @@
-<img src="https://www.ooredoo.com/wp-content/uploads/2015/12/ooredoo_logo_.png"/>
+<img src="https://www.ooredoo.mv/_nuxt/img/ooredoo-logo-220.6f2f1f0.png"/>
 
 ## OOREDOO SMS gateway for php
 
